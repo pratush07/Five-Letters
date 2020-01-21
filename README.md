@@ -1,5 +1,9 @@
 # Five-Letters
-Game is written in C# using Unity Game Engine. The game has a classroom setting where you will get 5 jumbled characters on a table. You have to quickly select characters before the time runs out in the order to make a meaningful word. Each correct answer fetches you 1 point and takes you to the next round. Score as high as possible!
+Game is written in C# using Unity Game Engine. The game has a classroom setting where you will get 5 jumbled characters on a table. You have to quickly select characters before the time runs out in the order to make a meaningful word. Each correct answer fetches you 1 point and takes you to the next round. Score as high as possible!  
+
+You can download the apk from here on your android phone https://github.com/pratush07/Five-Letters/blob/master/fiveletters/fiveletters.apk . 
+
+
 
 1. When the App starts you  will see this screen for a few moments and then will be directed to home screen.  
 
