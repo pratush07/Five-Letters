@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\miscscripts\mainmenucode.cs">
+    <Files>
+      <File FileName="Assets\gamescripts\gamescript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\GoogleAnalyticsV3\GoogleAnalyticsMPV3.cs" Line="270" Column="37" />
+      <File FileName="Assets\miscscripts\mainmenucode.cs" Line="82" Column="1" />
+      <File FileName="Assets\Plugins\GoogleAnalyticsV3\GoogleAnalyticsV3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
